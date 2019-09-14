@@ -1,0 +1,3 @@
+{
+    "main_service_image_url": "heroku/nodejs-hello-world"
+}
